@@ -1,0 +1,16 @@
+/avrPMB.C/1.1/Mon Nov 24 23:06:41 2008//
+/bigFit.sh/1.1/Mon Nov 24 23:06:42 2008//
+/calibBprsBox.C/1.1/Mon Nov 24 23:06:42 2008//
+/doAvrPed.C/1.1/Mon Nov 24 23:06:42 2008//
+/doBprsPed3D.C/1.1/Mon Nov 24 23:06:42 2008//
+/doBprsPedTonko.C/1.1/Mon Nov 24 23:06:43 2008//
+/findMap.C/1.1/Mon Nov 24 23:06:43 2008//
+/hadd.C/1.1/Mon Nov 24 23:06:43 2008//
+/mergePed.C/1.1/Mon Nov 24 23:06:43 2008//
+/plBprsSlope.C/1.1/Mon Nov 24 23:06:44 2008//
+/plGainBprs.C/1.1/Mon Nov 24 23:06:44 2008//
+/plPedAllCap.C/1.1/Mon Nov 24 23:06:44 2008//
+/plSwap-byCrate.C/1.1/Mon Nov 24 23:06:44 2008//
+/plSwap.C/1.1/Mon Nov 24 23:06:44 2008//
+/rdMu2BprsAbsCal.C/1.1/Sat Dec  6 02:01:01 2008//
+D

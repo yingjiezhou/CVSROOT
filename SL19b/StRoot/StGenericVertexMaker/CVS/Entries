@@ -1,0 +1,18 @@
+/README/1.1/Thu Dec  5 23:42:45 2002//
+/StCtbMatcher.h/1.5/Fri Apr 15 19:24:14 2016//
+/StCtbUtility.cxx/1.11/Tue Feb 14 22:00:40 2017//
+/StCtbUtility.h/1.4/Fri May 12 18:37:23 2017//
+/StFixedVertexFinder.cxx/1.8/Sat Mar 24 20:10:41 2018//
+/StFixedVertexFinder.h/1.7/Sat Mar 24 20:10:41 2018//
+/StGenericVertexFinder.cxx/1.53/Fri May 12 18:37:23 2017//
+/StGenericVertexFinder.h/1.57/Wed May 10 23:16:40 2017//
+/StGenericVertexMaker.cxx/1.68/Tue Oct  3 20:46:56 2017//
+/StGenericVertexMaker.h/1.22/Fri May 12 18:37:24 2017//
+/StppLMVVertexFinder.cxx/1.32/Wed Feb 15 15:30:18 2017//
+/StppLMVVertexFinder.h/1.14/Tue Feb 14 22:00:41 2017//
+/VertexFinderOptions.cxx/1.2/Wed May  3 20:14:35 2017//
+/VertexFinderOptions.h/1.2/Wed May  3 20:14:35 2017//
+D/Minuit////
+D/StiPPVertex////
+D/StvPPVertex////
+D/macros////

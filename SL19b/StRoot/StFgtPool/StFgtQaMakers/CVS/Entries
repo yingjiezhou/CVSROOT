@@ -1,0 +1,23 @@
+/StFgtAVEfficiencyMaker.cxx/1.3/Tue Apr 10 13:21:53 2012//
+/StFgtAVEfficiencyMaker.h/1.3/Wed Aug  6 11:43:12 2014//
+/StFgtClusterPlotter.cxx/1.9/Tue Mar 20 17:57:21 2012//
+/StFgtClusterPlotter.h/1.7/Wed Aug  6 11:43:12 2014//
+/StFgtCosmicTrackQA.cxx/1.2/Tue Jan 31 16:48:34 2012//
+/StFgtCosmicTrackQA.h/1.1/Tue Jan 31 09:26:16 2012//
+/StFgtPedStatQA.cxx/1.4/Fri Jul 25 18:46:00 2014//
+/StFgtPedStatQA.h/1.2/Wed Aug  6 11:43:12 2014//
+/StFgtQaAdcVsChannel.cxx/1.2/Tue Jan 31 16:48:34 2012//
+/StFgtQaAdcVsChannel.h/1.2/Tue Jan 31 09:31:37 2012//
+/StFgtQaClusterChargePerAPV.cxx/1.2/Tue Jan 31 16:48:34 2012//
+/StFgtQaClusterChargePerAPV.h/1.2/Tue Jan 31 09:31:37 2012//
+/StFgtQaCorrelationPlotMaker.cxx/1.2/Tue Jan 31 16:48:34 2012//
+/StFgtQaCorrelationPlotMaker.h/1.1/Tue Jan 31 09:26:17 2012//
+/StFgtQaHighStrips.cxx/1.2/Tue Jan 31 12:53:28 2012//
+/StFgtQaHighStrips.h/1.2/Tue Jan 31 12:53:28 2012//
+/StFgtQaMaker.cxx/1.1/Tue Jan 31 09:26:17 2012//
+/StFgtQaMaker.h/1.2/Tue Jan 31 09:31:37 2012//
+/StFgtQaRawOctAdc.cxx/1.3/Mon Mar  5 20:35:15 2012//
+/StFgtQaRawOctAdc.h/1.3/Mon Mar  5 20:35:15 2012//
+/StFgtSingleEventQA.cxx/1.1/Tue Jan 31 09:26:17 2012//
+/StFgtSingleEventQA.h/1.1/Tue Jan 31 09:26:17 2012//
+D/macro////

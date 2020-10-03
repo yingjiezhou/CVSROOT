@@ -1,0 +1,27 @@
+/StEStructAnalysis.cxx/1.2/Tue Apr  4 22:05:03 2006//
+/StEStructAnalysis.h/1.5/Fri Nov 16 21:19:05 2012//
+/StEStructAnalysisMaker.cxx/1.9/Fri Nov 16 21:19:05 2012//
+/StEStructAnalysisMaker.h/1.10/Sat Aug 29 03:23:47 2015//
+/StEStructCuts.cxx/1.13/Wed Nov 21 17:45:43 2012//
+/StEStructCuts.h/1.9/Fri Nov 16 21:19:06 2012//
+/StEStructDstReader.cxx/1.4/Fri Nov 16 21:19:06 2012//
+/StEStructDstReader.h/1.3/Fri Nov 16 21:19:06 2012//
+/StEStructEStructReader.cxx/1.1/Sat May  4 23:45:43 2013//
+/StEStructEStructReader.h/1.1/Sat May  4 23:45:44 2013//
+/StEStructEmptyAnalysis.cxx/1.9/Sun May 27 22:43:33 2007//
+/StEStructEmptyAnalysis.h/1.8/Sun May 27 22:43:35 2007//
+/StEStructEventCuts.cxx/1.19/Fri Nov 16 21:19:06 2012//
+/StEStructEventCuts.h/1.16/Tue Aug  2 20:31:25 2011//
+/StEStructEventReader.cxx/1.1/Wed Oct 15 18:20:32 2003//
+/StEStructEventReader.h/1.3/Fri Nov 16 21:19:06 2012//
+/StEStructEventWriter.cxx/1.1/Wed Oct 15 18:20:32 2003//
+/StEStructEventWriter.h/1.1/Wed Oct 15 18:20:32 2003//
+/StEStructMCReader.cxx/1.10/Fri Nov 16 21:19:07 2012//
+/StEStructMCReader.h/1.6/Fri Nov 16 21:19:07 2012//
+/StEStructMuDstReader.cxx/1.20/Fri Nov 16 21:19:07 2012//
+/StEStructMuDstReader.h/1.13/Fri Nov 16 21:19:07 2012//
+/StEStructQAHists.cxx/1.11/Fri Nov 16 21:19:07 2012//
+/StEStructQAHists.h/1.8/Fri Nov 16 21:19:07 2012//
+/StEStructTrackCuts.cxx/1.6/Fri Nov 16 21:19:08 2012//
+/StEStructTrackCuts.h/1.7/Fri Nov 16 21:19:08 2012//
+D

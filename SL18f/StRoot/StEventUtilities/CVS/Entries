@@ -1,0 +1,45 @@
+/.includes_for_export.flg/1.1/Fri Jun  1 02:46:19 2001//
+/BetheBlochCalibrator.C/1.6/Tue Aug 15 21:41:40 2006//
+/BetheBlochFunction.hh/1.5/Thu Jul 12 19:35:07 2007//
+/EveDis.C/1.6/Fri Jun 29 17:21:24 2018//
+/Linear.hh/1.1/Sat Jul 22 22:27:14 2000//
+/MaxllBoltz.hh/1.3/Tue Sep  2 17:58:09 2003//
+/PACKAGE/1.1/Thu Jul 12 19:35:07 2007//
+/README/1.15/Thu Apr 29 17:20:03 2010//
+/StEventHelper.cxx/1.44/Fri Jun 29 17:21:24 2018//
+/StEventHelper.h/1.38/Fri Jun 29 17:21:24 2018//
+/StEventHitIter.cxx/1.8/Fri Mar  9 21:36:42 2018//
+/StEventHitIter.h/1.5/Fri Mar  9 21:36:18 2018//
+/StEventUtilitiesLinkDef.h/1.2/Tue May  6 17:55:56 2008//
+/StPidAmpChannelInfoOut.cxx/1.2/Wed Aug 16 12:46:01 2000//
+/StPidAmpChannelInfoOut.h/1.2/Tue Sep  2 17:58:09 2003//
+/StPidAmpConst.hh/1.1/Sat Jul 22 22:27:14 2000//
+/StPidAmpNetOut.cxx/1.1/Sat Jul 22 22:27:14 2000//
+/StPidAmpNetOut.h/1.2/Tue Sep  2 17:58:09 2003//
+/StRedoTracks.cxx/1.7/Fri Jun 29 17:21:24 2018//
+/StRedoTracks.h/1.4/Wed Aug  6 11:43:08 2014//
+/StuCounter.hh/1.1/Wed Dec 15 15:05:20 1999//
+/StuCutEvent.cxx/1.3/Tue Sep  2 17:58:09 2003//
+/StuCutEvent.hh/1.3/Tue Sep  2 17:58:09 2003//
+/StuCutTrack.cxx/1.3/Tue Sep  2 17:58:09 2003//
+/StuCutTrack.hh/1.3/Tue Sep  2 17:58:09 2003//
+/StuDraw3DEvent.cxx/1.35/Fri Jun 29 17:21:24 2018//
+/StuDraw3DEvent.h/1.22/Fri Jun 29 17:21:24 2018//
+/StuFixTopoMap.cxx/1.13/Tue Oct 16 19:36:49 2018//
+/StuFtpcRefMult.hh/1.8/Fri Jun 29 17:21:24 2018//
+/StuJitterBug.hh/1.2/Thu May 30 11:31:08 2002//
+/StuObjPidReport.cxx/1.1/Tue Aug 15 23:04:18 2000//
+/StuObjPidReport.h/1.2/Tue Sep  2 17:58:09 2003//
+/StuPostScript.cc/1.4/Fri Jun 29 17:21:24 2018//
+/StuPostScript.h/1.6/Tue Sep  2 17:58:09 2003//
+/StuProbabilityPidAlgorithm.cxx/1.34/Sun Sep 19 00:07:28 2004//
+/StuProbabilityPidAlgorithm.h/1.17/Sun Aug  6 23:30:15 2006//
+/StuRefCentrality.hh/1.1/Tue Dec 18 03:11:38 2001//
+/StuRefCentrality2.hh/1.1/Tue Dec 18 03:11:39 2001//
+/StuRefMult.hh/1.8/Fri Jun 29 17:21:24 2018//
+/TwistPatch.cxx/1.2/Thu May 26 17:25:55 2005//
+/TwistPatch.h/1.2/Thu May 26 17:25:55 2005//
+/index.html/1.1/Wed Dec 15 15:05:22 1999//
+D/MyCustomFilter////
+D/doc////
+D/examples////
